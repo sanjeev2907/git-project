@@ -1,1 +1,1 @@
-print("Hello Git")
+print("Change made directly in GitHub")
