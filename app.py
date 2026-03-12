@@ -1,1 +1,1 @@
-print("This line is added for git diff practice")
+print("Hello Git")
